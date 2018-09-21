@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-A handy image editor powered by electron.
+A handly electron react boiler plate.
 </p>
 
 <div align="center">
@@ -32,7 +32,7 @@ A handy image editor powered by electron.
 
 <div align="center">
 
-<img src="./internals/img/snapshot.jpg" width="600" />
+<!-- <img src="./internals/img/snapshot.jpg" width="600" /> -->
 
 </div>
 
