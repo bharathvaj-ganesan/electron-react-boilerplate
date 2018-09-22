@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img src="./internals/img/logo.png" width="200" />
+<img src="./internals/img/react.png" width="200" />
 
 </div>
 
